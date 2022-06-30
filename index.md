@@ -5,4 +5,4 @@
 #### MTP
 ## Jekyll Themes
 
- your [repository settings](https://github.com/taozheng99/taozheng99.github.io/settings/pages). The name kyll `_config.yml` 
+ [repository settings](https://github.com/taozheng99/taozheng99.github.io/settings/pages). The name kyll `_config.yml` 
