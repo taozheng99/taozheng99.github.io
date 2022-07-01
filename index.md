@@ -1,7 +1,7 @@
 ## Welcome to Tao Zheng's Homepage
 
 ### Publications(中文)
-#### cordal CAD（鲜花CAD）
+#### cordal CAD（弦CAD）
 #### MTP
 ## Jekyll Themes
 
